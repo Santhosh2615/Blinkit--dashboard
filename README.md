@@ -20,4 +20,4 @@ This project focuses on analyzing Blinkit’s grocery sales performance, with sp
 🎓 B.Tech – Mechanical Engineering, IIT (ISM) Dhanbad  
 🌐 Connect with me:  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jadhav-akshay-kumar-835b22289/)  
-💻 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akshayjadhav04)
+💻 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Santhosh2615)
