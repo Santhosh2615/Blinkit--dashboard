@@ -16,8 +16,8 @@ This project focuses on analyzing Blinkit’s grocery sales performance, with sp
 • Structured insights on product mix and nutrition patterns, highlighting sales split by fat content (Regular: $776.32K, Low Fat: $425.36K) and top-performing categories such as Fruits/Snacks ($0.18M each), enabling data-driven retail strategy
 
 ## 👨‍💻 Author
-**Jadhav Akshay Kumar**  
-🎓 B.Tech – Electronics & Communication Engineering, IIT (ISM) Dhanbad  
+**Jatavath Santhosh Nayak**  
+🎓 B.Tech – Mechanical Engineering, IIT (ISM) Dhanbad  
 🌐 Connect with me:  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jadhav-akshay-kumar-835b22289/)  
 💻 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akshayjadhav04)
